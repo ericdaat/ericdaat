@@ -21,3 +21,11 @@ I am currently pursuing a PhD in Machine Learning applied to cancerology at Inst
 - [flask-template](https://github.com/ericdaat/flask-template): Template for a Python Flask web application along with sqlalchemy, docker, CI and Sphinx docs.
 - [template-python](https://github.com/ericdaat/template-python): A template repository for a python package. Pre configured Sphinx docs and pytest.
 - [dotfiles](https://github.com/ericdaat/dotfiles): My dotfiles, defaults for macos, but there is a linux branch as well.
+
+**Find me on**
+
+- [LinkedIn](https://www.linkedin.com/in/ericdaoud/)
+- [Personal blog](https://edaoud.com/): I blog about data science & software engineering
+- [YouTube](https://www.youtube.com/channel/UCVuDs3gy11RXRd5m-TSRAyQ): for guitar & music videos
+- [Instagram](https://www.instagram.com/ericda/): for shorter guitar videos
+- [500px](https://500px.com/p/ericda?view=photos): my pictures gallery
