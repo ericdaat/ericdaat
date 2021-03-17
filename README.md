@@ -1,8 +1,9 @@
 Hi 👋
 
-I’m Eric, a Data Scientist and Full Stack Developer with additional Data Engineering and DevOps skills.
+I’m Eric, a Senior Data Scientist and Full Stack Developer with additional Data Engineering and DevOps skills.
 
-I am currently pursuing a PhD in Machine Learning applied to cancerology at Institut Curie in Paris, France. Besides work, I am really keen on music, photography, bike, karate and golf.
+I am currently pursuing a PhD in Machine Learning applied to oncology at [Institut Curie](https://institut-curie.org/) in Paris, France. 
+Besides work, I am really keen on music, photography, bike, karate and golf.
 
 **Open source projects**
 
@@ -25,6 +26,7 @@ I am currently pursuing a PhD in Machine Learning applied to cancerology at Inst
 **Find me on**
 
 - [LinkedIn](https://www.linkedin.com/in/ericdaoud/)
+- [Twitter](https://twitter.com/ericdaoud)
 - [Personal blog](https://edaoud.com/): I blog about data science & software engineering
 - [YouTube](https://www.youtube.com/channel/UCVuDs3gy11RXRd5m-TSRAyQ): for guitar & music videos
 - [Instagram](https://www.instagram.com/ericda/): for shorter guitar videos
