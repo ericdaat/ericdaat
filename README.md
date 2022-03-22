@@ -7,7 +7,7 @@ Besides work, I am really keen on music, photography, running, biking, karate an
 
 **Research papers**
 
-- [SiMCa: Sinkhorn Matrix Factorization with Capacity Constraints](https://github.com/ericdaat/SiMCa)
+- [SiMCa: Sinkhorn Matrix Factorization with Capacity Constraints](https://github.com/ericdaat/SiMCa).
 
 **Open source projects**
 
@@ -26,14 +26,14 @@ Besides work, I am really keen on music, photography, running, biking, karate an
 
 - [flask-template](https://github.com/ericdaat/flask-template): Template for a Python Flask web application along with sqlalchemy, docker, CI and Sphinx docs.
 - [template-python](https://github.com/ericdaat/template-python): A template repository for a python package. Pre configured Sphinx docs and pytest.
-- [flask-assets-bootstrap](https://github.com/ericdaat/flask-assets-bootstrap): A minimal Flask application with Bootstrap and Sass 
+- [flask-assets-bootstrap](https://github.com/ericdaat/flask-assets-bootstrap): A minimal Flask application with Bootstrap and Sass.
 - [dotfiles](https://github.com/ericdaat/dotfiles): My dotfiles, defaults for macos, but there is a linux branch as well.
 
 **Find me on**
 
 - [LinkedIn](https://www.linkedin.com/in/ericdaoud/)
 - [Twitter](https://twitter.com/ericdaoud)
-- [Personal blog](https://edaoud.com/): I blog about data science & software engineering
-- [YouTube](https://www.youtube.com/channel/UCVuDs3gy11RXRd5m-TSRAyQ): for guitar & music videos
-- [Instagram](https://www.instagram.com/ericda/): for shorter guitar videos
-- [500px](https://500px.com/p/ericda?view=photos): my pictures gallery
+- [Personal blog](https://edaoud.com/): I blog about data science & software engineering.
+- [YouTube](https://www.youtube.com/channel/UCVuDs3gy11RXRd5m-TSRAyQ): for guitar & music videos.
+- [Instagram](https://www.instagram.com/ericda/): for shorter guitar videos.
+- [500px](https://500px.com/p/ericda?view=photos): my pictures gallery.
