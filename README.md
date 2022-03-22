@@ -2,7 +2,7 @@ Hi 👋
 
 I’m Eric, a Senior Data Scientist and Full Stack Developer with additional Data Engineering and DevOps skills.
 
-I am currently pursuing a PhD in Machine Learning applied to oncology at [Institut Curie](https://institut-curie.org/) in Paris, France. 
+I am currently pursuing a PhD in Machine Learning applied to oncology at [Institut Curie](https://institut-curie.org/), and [INRIA](https://www.inria.fr/en) in Paris, France. 
 Besides work, I am really keen on music, photography, running, biking, karate and golf.
 
 **Research papers**
