@@ -5,6 +5,10 @@ I’m Eric, a Senior Data Scientist and Full Stack Developer with additional Dat
 I am currently pursuing a PhD in Machine Learning applied to oncology at [Institut Curie](https://institut-curie.org/) in Paris, France. 
 Besides work, I am really keen on music, photography, running, biking, karate and golf.
 
+**Research papers**
+
+- [SiMCa: Sinkhorn Matrix Factorization with Capacity Constraints](https://github.com/ericdaat/SiMCa)
+
 **Open source projects**
 
 - [data-stack](https://github.com/ericdaat/data-stack): A starting point for a data stack using Python, Apache Airflow and Metabase.
@@ -22,6 +26,7 @@ Besides work, I am really keen on music, photography, running, biking, karate an
 
 - [flask-template](https://github.com/ericdaat/flask-template): Template for a Python Flask web application along with sqlalchemy, docker, CI and Sphinx docs.
 - [template-python](https://github.com/ericdaat/template-python): A template repository for a python package. Pre configured Sphinx docs and pytest.
+- [flask-assets-bootstrap](https://github.com/ericdaat/flask-assets-bootstrap): A minimal Flask application with Bootstrap and Sass 
 - [dotfiles](https://github.com/ericdaat/dotfiles): My dotfiles, defaults for macos, but there is a linux branch as well.
 
 **Find me on**
