@@ -29,6 +29,10 @@ Besides work, I am really keen on music, photography, running, biking, karate an
 - [flask-assets-bootstrap](https://github.com/ericdaat/flask-assets-bootstrap): A minimal Flask application with Bootstrap and Sass.
 - [dotfiles](https://github.com/ericdaat/dotfiles): My dotfiles, defaults for macos, but there is a linux branch as well.
 
+**Tutorials**
+
+- [Draw maps with R and ggplot2](https://github.com/ericdaat/maps-R-ggplot2)
+
 **Find me on**
 
 - [LinkedIn](https://www.linkedin.com/in/ericdaoud/)
