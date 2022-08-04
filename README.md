@@ -28,6 +28,7 @@ Besides work, I am really keen on music, photography, running, biking, karate an
 - [template-python](https://github.com/ericdaat/template-python): A template repository for a python package. Pre configured Sphinx docs and pytest.
 - [flask-assets-bootstrap](https://github.com/ericdaat/flask-assets-bootstrap): A minimal Flask application with Bootstrap and Sass.
 - [dotfiles](https://github.com/ericdaat/dotfiles): My dotfiles, defaults for macos, but there is a linux branch as well.
+- [phd-manuscript-template](https://github.com/ericdaat/phd-manuscript-template): A PhD manuscript template, written in Latex. The theme is from University Paris-Saclay. 
 
 **Tutorials**
 
