@@ -1,13 +1,11 @@
 Hi 👋
 
-I’m Eric, a Senior Data Scientist and Full Stack Developer with additional Data Engineering and DevOps skills.
-
-I am currently pursuing a PhD in Machine Learning applied to oncology at [Institut Curie](https://institut-curie.org/), and [INRIA](https://www.inria.fr/en) in Paris, France. 
-Besides work, I am really keen on music, photography, running, biking, karate and golf.
+I’m Eric, co-founder and CTO of Guided Energy. 
 
 **Research papers**
 
 - [SiMCa: Sinkhorn Matrix Factorization with Capacity Constraints](https://github.com/ericdaat/SiMCa).
+- [CAMION: a catchment area maximization algorithm with Linear Programming](https://github.com/ericdaat/CAMION)
 
 **Open source projects**
 
@@ -40,5 +38,4 @@ Besides work, I am really keen on music, photography, running, biking, karate an
 - [Twitter](https://twitter.com/ericdaoud)
 - [Personal blog](https://edaoud.com/): I blog about data science & software engineering.
 - [YouTube](https://www.youtube.com/channel/UCVuDs3gy11RXRd5m-TSRAyQ): for guitar & music videos.
-- [Instagram](https://www.instagram.com/ericda/): for shorter guitar videos.
 - [500px](https://500px.com/p/ericda?view=photos): my pictures gallery.
